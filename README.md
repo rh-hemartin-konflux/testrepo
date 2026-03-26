@@ -11,3 +11,7 @@ pushed to a local registry deployed on the cluster.
 Consult the [documentation](https://github.com/konflux-ci/konflux-ci?tab=readme-ov-file#konflux-ci) for using external image registries.
 
 Dummy change
+
+## Claude Agent Test
+
+This section was added by Claude Agent to verify automated PR workflows. (Closes #19)
